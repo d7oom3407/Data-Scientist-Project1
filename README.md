@@ -1,4 +1,4 @@
-# # Table of Contents
+## Table of Contents
 1. [Libraries](#libraries)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
@@ -7,10 +7,10 @@
 
 ## Libraries <a name="libraries"></a>
 Below are the lists of Python libraries I used for this analysis:
-# Data Manuplation and Extraction
+### Data Manuplation and Extraction
 - Pandas
 - NumPy
-# Data Visualization
+### Data Visualization
 - Matplotlib
 - Seaborn
 
